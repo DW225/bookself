@@ -14,7 +14,7 @@ import type { Book } from '~/types/book';
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "My Bookshelf" },
+    { title: "Bookshelf" },
     { name: "description", content: "Organize and manage your book collection" },
     { name: "viewport", content: "width=device-width, initial-scale=1" },
   ];
